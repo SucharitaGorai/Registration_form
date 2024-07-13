@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/SucharitaGorai.github.io/registration_linkform/static/css/main.31d6cfe0.css",
-    "main.js": "/SucharitaGorai.github.io/registration_linkform/static/js/main.6a16975c.js",
-    "static/js/453.6798193f.chunk.js": "/SucharitaGorai.github.io/registration_linkform/static/js/453.6798193f.chunk.js",
-    "index.html": "/SucharitaGorai.github.io/registration_linkform/index.html",
-    "main.6a16975c.js.map": "/SucharitaGorai.github.io/registration_linkform/static/js/main.6a16975c.js.map",
-    "453.6798193f.chunk.js.map": "/SucharitaGorai.github.io/registration_linkform/static/js/453.6798193f.chunk.js.map"
+    "main.css": "/SucharitaGorai.github.io/Registration_form/static/css/main.31d6cfe0.css",
+    "main.js": "/SucharitaGorai.github.io/Registration_form/static/js/main.f6156086.js",
+    "static/js/453.6798193f.chunk.js": "/SucharitaGorai.github.io/Registration_form/static/js/453.6798193f.chunk.js",
+    "index.html": "/SucharitaGorai.github.io/Registration_form/index.html",
+    "main.f6156086.js.map": "/SucharitaGorai.github.io/Registration_form/static/js/main.f6156086.js.map",
+    "453.6798193f.chunk.js.map": "/SucharitaGorai.github.io/Registration_form/static/js/453.6798193f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.6a16975c.js"
+    "static/js/main.f6156086.js"
   ]
 }
