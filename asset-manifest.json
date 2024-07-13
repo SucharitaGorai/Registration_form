@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/SucharitaGorai.github.io/Registration_form/static/css/main.31d6cfe0.css",
-    "main.js": "/SucharitaGorai.github.io/Registration_form/static/js/main.f6156086.js",
-    "static/js/453.6798193f.chunk.js": "/SucharitaGorai.github.io/Registration_form/static/js/453.6798193f.chunk.js",
-    "index.html": "/SucharitaGorai.github.io/Registration_form/index.html",
-    "main.f6156086.js.map": "/SucharitaGorai.github.io/Registration_form/static/js/main.f6156086.js.map",
-    "453.6798193f.chunk.js.map": "/SucharitaGorai.github.io/Registration_form/static/js/453.6798193f.chunk.js.map"
+    "main.css": "/Registration_form/static/css/main.31d6cfe0.css",
+    "main.js": "/Registration_form/static/js/main.1533e5ab.js",
+    "static/js/453.6798193f.chunk.js": "/Registration_form/static/js/453.6798193f.chunk.js",
+    "index.html": "/Registration_form/index.html",
+    "main.1533e5ab.js.map": "/Registration_form/static/js/main.1533e5ab.js.map",
+    "453.6798193f.chunk.js.map": "/Registration_form/static/js/453.6798193f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.f6156086.js"
+    "static/js/main.1533e5ab.js"
   ]
 }
