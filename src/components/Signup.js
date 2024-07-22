@@ -18,7 +18,7 @@ function Signup() {
         setErrors(err);
 
         if (err.name === "" && err.email === "" && err.password === "") {
-            axios.post('http://localhost:5600/signup', values)
+            axios.post('http://localhost:4500/signup', values)
                 .then(res => {
                     navigate('/');
                 })
